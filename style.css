@@ -105,7 +105,7 @@ a{
   background-size: cover;
   background-position: center;
   max-width: 100%;
-  width: 50vw;
+  width: 90vw;
   animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -199,7 +199,7 @@ span {
 }
 
 .about img {
-  width: 50vw;
+  width: 70vw;
   max-width: 100%;
   animation: floatImage 4s ease-in-out infinite;
 }
